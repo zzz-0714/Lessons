@@ -1,0 +1,6 @@
+# git ignore file for IDEA
+
+.idea
+**.iml
+.DS_Store
+**/target
