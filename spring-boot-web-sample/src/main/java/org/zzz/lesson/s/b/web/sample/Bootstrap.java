@@ -1,4 +1,4 @@
-package com.zzz.lesson.s.b.web.sample;
+package org.zzz.lesson.s.b.web.sample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
