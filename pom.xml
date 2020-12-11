@@ -13,6 +13,7 @@
         <module>spring-boot-web-sample</module>
         <module>lesson-core</module>
         <module>spring-boot-auto-configuration-sample</module>
+        <module>spring.boot.aop.sample</module>
     </modules>
 
     <parent>
@@ -83,6 +84,11 @@
                 <groupId>com.fasterxml.jackson.module</groupId>
                 <artifactId>jackson-module-parameter-names</artifactId>
                 <version>${jackson.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>com.alibaba</groupId>
+                <artifactId>fastjson</artifactId>
+                <version>LATEST</version>
             </dependency>
 
             <!-- Local Module Dependencies -->
